@@ -2,7 +2,7 @@
 
 ### About Dr. Amanda Buch:
 
-:brain: :gear:	I am a neuroscientist and machine learning engineer at Weill Cornell Medicine, Cornell University working at the intersection of artificial intelligence, neuroscience, psychiatry, and international relations. I am also a Ford Foundation Early-Career Fellow, Burroughs Wellcome Fund / Charles Revson Scholar, and Leading Edge Fellow.
+:brain: :gear:	I am a neuroscientist and machine learning engineer at Weill Cornell Medicine, Cornell University working at the intersection of artificial intelligence, neuroscience, psychiatry, and international relations. I am also a Ford Foundation Early-Career Fellow, Burroughs Wellcome Fund / Charles Revson Scholar, and Howard Hughes Medical Institute (HHMI) Leading Edge Fellow.
 
 ✨ :snowboarder: I am currently developing novel approaches for cluster-aware machine learning of neuroimaging, behavioral, and omic data, and I am deploying them for AI-informed precision neuropsychiatry.
 
