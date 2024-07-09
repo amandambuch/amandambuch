@@ -2,9 +2,11 @@
 
 ### About Dr. Amanda Buch:
 
-:brain: :gear:	I am a neuroscientist and machine learning engineer at Weill Cornell Medicine, Cornell University working at the intersection of artificial intelligence, neuroscience, psychiatry, and international relations. I am also a [Ford Foundation Early-Career Fellow](https://ra.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=AW&CompYr=2023), [Burroughs Wellcome Fund / Charles Revson Scholar](https://www.bwfund.org/news/announcing-the-recipients-of-the-2024-postdoctoral-diversity-enrichment-program/), and [Howard Hughes Medical Institute (HHMI) Leading Edge Fellow](https://www.leadingedgesymposium.org/fellows/).
+:brain: :gear:	I am a neuroscientist and machine learning engineer at Weill Cornell Medicine, Cornell University working at the intersection of artificial intelligence, neuroscience, psychiatry, and international relations. 
 
 ✨ :snowboarder: I am currently developing novel approaches for cluster-aware machine learning of neuroimaging, behavioral, and omic data, and I am deploying them for AI-informed precision neuropsychiatry.
+
+:gem: :trophy: I am honored to be a [Ford Foundation Early-Career Fellow](https://ra.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=AW&CompYr=2023), [Burroughs Wellcome Fund / Charles Revson Scholar](https://www.bwfund.org/news/announcing-the-recipients-of-the-2024-postdoctoral-diversity-enrichment-program/), and [Howard Hughes Medical Institute (HHMI) Leading Edge Fellow](https://www.leadingedgesymposium.org/fellows/).
 
 :mailbox_with_mail: I love to give share and present my work, and to collaborate. Get in touch [here](mailto:amb2022@med.cornell.edu) if you'd like to invite me to give a talk
 
