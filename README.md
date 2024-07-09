@@ -20,16 +20,16 @@ $~$
 
 ---
 #### Speaking Engagements and Collaborations:
-:mailbox_with_mail: I love to share and present my work, and to collaborate. Get in touch [here](mailto:amb2022@med.cornell.edu) if you'd like to invite me to give a talk or chat about any of our shared interests!
+💬 I love to share and present my work, and to collaborate. I have presented at over 50 forums including conference presentations, invited seminars/lectures at academic institutions, invited public commmunity science talks, and invited panelist speaking engagements in North America, Europe, and Asia.
 
-💬 [Ask me](mailto:amb2022@med.cornell.edu) about giving an invited talk or being a professional development panelist for early-career scientists, or if you are interested in collaborating on machine learning, applications in neuroscience and psychiatry, science diplomacy, science communication/advocacy, or scientific illustration!
+:mailbox_with_mail: Get in touch [here](mailto:amb2022@med.cornell.edu) if you'd like to invite me to give a talk or chat about any of our shared interests! [Reach out](mailto:amb2022@med.cornell.edu) if you are interested in collaborating on machine learning, applications in neuroscience and psychiatry, science diplomacy, science communication/advocacy, or scientific illustration!
 
 :computer: Check out [my website](https://www.amandabuch.com/) to see the latest updates on my work, and follow me on 🐦 Twitter [@amandambuch](https://x.com/amandambuch).
 $~$
 
 ---
 #### Science Diplomacy and Communication:
-:open_hands: I am a science diplomat and communicator. For example, see my work for the [American Association for the Advancement of Science (AAAS) Center for Science and Diplomacy](https://www.aaas.org/news/emerging-technologies-role-science-diplomacy) and for [Story Collider](https://www.storycollider.org/stories/2016/12/2/amanda-buch-my-fathers-brain). I have presented at over 50 forums including conference presentations, invited seminars/lectures at academic institutions, invited public commmunity science talks, and invited panelist speaking engagements in North America, Europe, and Asia.
+:open_hands: I am a science diplomat and communicator. For example, see my work for the [American Association for the Advancement of Science (AAAS) Center for Science and Diplomacy](https://www.aaas.org/news/emerging-technologies-role-science-diplomacy) and for [Story Collider](https://www.storycollider.org/stories/2016/12/2/amanda-buch-my-fathers-brain).
 
 :globe_with_meridians: As a science diplomat, I facilitate community engagement between the international scientific community and the public. I also research and advocate for policy-wide changes to enhance international scientific collaboration, equity, and inclusion.
 $~$
