@@ -8,7 +8,7 @@
 
 :gem: I am honored to be a [Ford Foundation Early-Career Fellow](https://ra.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=AW&CompYr=2023), [Burroughs Wellcome Fund / Charles Revson Scholar](https://www.bwfund.org/news/announcing-the-recipients-of-the-2024-postdoctoral-diversity-enrichment-program/), and [Howard Hughes Medical Institute (HHMI) Leading Edge Fellow](https://www.leadingedgesymposium.org/fellows/). :trophy:
 
-:mailbox_with_mail: I love to share and present my work, and to collaborate. Get in touch [here](mailto:amb2022@med.cornell.edu) if you'd like to invite me to give a talk
+:mailbox_with_mail: I love to share and present my work, and to collaborate. Get in touch [here](mailto:amb2022@med.cornell.edu) if you'd like to invite me to give a talk or chat about any of our shared interests!
 
 💬 [Ask me](mailto:amb2022@med.cornell.edu) about giving an invited talk or collaborating on machine learning, applications in neuroscience and psychiatry, science diplomacy, or being a professional development panelist for early-career scientists!
 
