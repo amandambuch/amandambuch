@@ -1,6 +1,7 @@
 ## Nice to meet you! 👋
 
-### About Dr. Amanda Buch:  #### Building and applying machine learning for AI-informed precision neuropsychiatry.
+### About Dr. Amanda Buch:  
+#### Building and applying machine learning for AI-informed precision neuropsychiatry.
 
 :brain: :gear:	I am a neuroscientist and machine learning engineer at Weill Cornell Medicine, Cornell University working at the intersection of artificial intelligence, neuroscience, psychiatry, and international relations. 
 
