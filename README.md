@@ -1,4 +1,6 @@
-## About Dr. Amanda Buch. Nice to meet you! 👋
+## Nice to meet you! 👋
+
+### About Dr. Amanda Buch:
 
 :brain: :gear:	I am a neuroscientist and machine learning engineer at Weill Cornell Medicine, Cornell Unviersity working at the intersection of artificial intelligence, neuroscience, psychiatry, and international relations. I am also a Ford Foundation Early-Career Fellow, Burroughs Wellcome Fund / Charles Revson Scholar, and Leading Edge Fellow.
 
