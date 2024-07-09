@@ -1,6 +1,6 @@
 ## Nice to meet you! 👋
 
-### About Dr. Amanda Buch: 
+### | &nbsp; About Dr. Amanda Buch &nbsp; |
 
 :brain: :gear:	I am a neuroscientist and machine learning engineer at Weill Cornell Medicine, Cornell University working at the intersection of artificial intelligence, neuroscience, psychiatry, and international relations. 
 
