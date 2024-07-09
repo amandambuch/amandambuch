@@ -1,6 +1,6 @@
 ## Nice to meet you! 👋
 
-### About Dr. Amanda Buch:
+### About Dr. Amanda Buch: Developer and deployer of machine learning for AI-informed precision neuropsychiatry.
 
 :brain: :gear:	I am a neuroscientist and machine learning engineer at Weill Cornell Medicine, Cornell University working at the intersection of artificial intelligence, neuroscience, psychiatry, and international relations. 
 
@@ -12,7 +12,7 @@
 $~$
 
 ---
-#### Speaking engagements and collaborations:
+#### Speaking Engagements and Collaborations:
 :mailbox_with_mail: I love to share and present my work, and to collaborate. Get in touch [here](mailto:amb2022@med.cornell.edu) if you'd like to invite me to give a talk or chat about any of our shared interests!
 
 💬 [Ask me](mailto:amb2022@med.cornell.edu) about giving an invited talk or being a professional development panelist for early-career scientists, or if you are interested in collaborating on machine learning, applications in neuroscience and psychiatry, science diplomacy, science communication/advocacy, or scientific illustration!
@@ -21,14 +21,14 @@ $~$
 $~$
 
 ---
-#### Science diplomacy and communication:
+#### Science Diplomacy and Communication:
 :open_hands: I am a science diplomat and communicator. For example, see my work for the [American Association for the Advancement of Science (AAAS) Center for Science and Diplomacy](https://www.aaas.org/news/emerging-technologies-role-science-diplomacy) and for [Story Collider](https://www.storycollider.org/stories/2016/12/2/amanda-buch-my-fathers-brain). I have presented at over 50 forums including conference presentations, invited seminars/lectures at academic institutions, invited public commmunity science talks, and invited panelist speaking engagements in North America, Europe, and Asia.
 
 :globe_with_meridians: As a science diplomat, I facilitate community engagement between the international scientific community and the public. I also research and advocate for policy-wide changes to enhance international scientific collaboration, equity, and inclusion.
 $~$
 
 ---
-#### Classical visual arts and scientific illustration:
+#### Classical Visual Arts and Scientific Illustration:
 :art: I am a classically-trained visual artist who studies drawing and painting in the classical tradition at [Grand Central Atelier](https://grandcentralatelier.org/) in NYC, and I am a scientific illustrator ([see one example here](https://news.weill.cornell.edu/news/2023/04/four-different-autism-subtypes-identified-in-brain-study)).
 
 ---
