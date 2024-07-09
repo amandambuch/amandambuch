@@ -30,4 +30,5 @@ $~$
 ---
 #### Classical visual arts and scientific illustration:
 :art: I am a classically-trained visual artist who studies drawing and painting in the classical tradition at [Grand Central Atelier](https://grandcentralatelier.org/) in NYC, and I am a scientific illustrator ([see one example here](https://news.weill.cornell.edu/news/2023/04/four-different-autism-subtypes-identified-in-brain-study)).
+
 ---
