@@ -15,14 +15,12 @@
 :computer: Check out my website to see the latest updates on my work ([www.amandabuch.com/](https://www.amandabuch.com/)), and follow me on 🐦 Twitter [@amandambuch](https://x.com/amandambuch).
 $~$
 
-
 ---
 :open_hands: I am also a science diplomat and communicator. For example, see my work [for AAAS Science & Diplomacy](https://www.aaas.org/news/emerging-technologies-role-science-diplomacy) and Story Collider[https://www.storycollider.org/stories/2016/12/2/amanda-buch-my-fathers-brain]. I have also presented at over 50 forums including conference presentations, invited seminars/lectures, and invited panelist speaking engagements in North America, Europe, and Asia.
 
 :globe_with_meridians: 🤝 As a science diplomat, I facilitate community engagement between the international scientific community and the public. I also research and advocate for policy-wide changes to enhance international scientific collaboration, equity, and inclusion.
 
 $~$
-
 
 ---
 :art: I am also a classically-trained visual artist who studies drawing and painting in the classical tradition at [Grand Central Atelier](https://grandcentralatelier.org/) in NYC, and I am also a scientific illustrator ([see one example here](https://news.weill.cornell.edu/news/2023/04/four-different-autism-subtypes-identified-in-brain-study)).
