@@ -22,7 +22,7 @@ $~$
 
 ---
 #### Science diplomacy and communication:
-:open_hands: I am a science diplomat and communicator. For example, see my work in [AAAS Science & Diplomacy](https://www.aaas.org/news/emerging-technologies-role-science-diplomacy) and [Story Collider](https://www.storycollider.org/stories/2016/12/2/amanda-buch-my-fathers-brain). I have presented at over 50 forums including conference presentations, invited seminars/lectures, and invited panelist speaking engagements in North America, Europe, and Asia.
+:open_hands: I am a science diplomat and communicator. For example, see my work in [American Association for the Advancement of Science (AAAS) Science & Diplomacy](https://www.aaas.org/news/emerging-technologies-role-science-diplomacy) and [Story Collider](https://www.storycollider.org/stories/2016/12/2/amanda-buch-my-fathers-brain). I have presented at over 50 forums including conference presentations, invited seminars/lectures, and invited panelist speaking engagements in North America, Europe, and Asia.
 
 :globe_with_meridians: As a science diplomat, I facilitate community engagement between the international scientific community and the public. I also research and advocate for policy-wide changes to enhance international scientific collaboration, equity, and inclusion.
 
