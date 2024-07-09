@@ -4,11 +4,18 @@
 
 :brain: :gear:	I am a neuroscientist and machine learning engineer at Weill Cornell Medicine, Cornell University working at the intersection of artificial intelligence, neuroscience, psychiatry, and international relations. 
 
-✨ I am currently developing novel approaches for cluster-aware machine learning of neuroimaging, behavioral, and omic data :snowboarder:, and I am deploying them for AI-informed precision neuropsychiatry.
-
 :gem: I am honored to be a [National Academies of Sciences, Engineering, and Medicine (NASEM) / Ford Foundation Early-Career Fellow](https://ra.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=AW&CompYr=2023), [Burroughs Wellcome Fund / Charles Revson Scholar](https://www.bwfund.org/news/announcing-the-recipients-of-the-2024-postdoctoral-diversity-enrichment-program/), and [Howard Hughes Medical Institute (HHMI) Leading Edge Fellow](https://www.leadingedgesymposium.org/fellows/). :trophy:
 
 🎓 I have a Ph.D. in Neuroscience from Weill Cornell Graduate School of Medical Sciences at Cornell University, and a B.A. in Biophysics from Columbia College at Columbia University.
+$~$
+
+---
+
+#### Dr. Buch's Research Program: Machine Learning for AI-Informed Precision Neuropsychiatry.
+
+✨ I am currently developing novel approaches for cluster-aware machine learning of neuroimaging, behavioral, and omic data :snowboarder:, and I am deploying them for AI-informed precision neuropsychiatry.
+
+:rocket: I pioneered a novel imaging transcriptomics approach for biological subtyping, and identified four distinct subtypes of autism spectrum disorder linked to differing molecular pathways.
 $~$
 
 ---
