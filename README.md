@@ -10,7 +10,7 @@
 
 :mailbox_with_mail: I love to share and present my work, and to collaborate. Get in touch [here](mailto:amb2022@med.cornell.edu) if you'd like to invite me to give a talk or chat about any of our shared interests!
 
-💬 [Ask me](mailto:amb2022@med.cornell.edu) about giving an invited talk or being a professional development panelist for early-career scientists, or if you are interested in collaborating on machine learning, applications in neuroscience and psychiatry, science diplomacy, science communication/advocacy, or visual arts!
+💬 [Ask me](mailto:amb2022@med.cornell.edu) about giving an invited talk or being a professional development panelist for early-career scientists, or if you are interested in collaborating on machine learning, applications in neuroscience and psychiatry, science diplomacy, science communication/advocacy, or scientific illustration!
 
 :computer: Check out my website to see the latest updates on my work ([www.amandabuch.com/](https://www.amandabuch.com/)), and follow me on 🐦 Twitter [@amandambuch](https://x.com/amandambuch).
 $~$
