@@ -12,7 +12,7 @@
 
 💬 [Ask me](mailto:amb2022@med.cornell.edu) about giving an invited talk or being a professional development panelist for early-career scientists, or if you are interested in collaborating on machine learning, applications in neuroscience and psychiatry, science diplomacy, science communication/advocacy, or visual arts!
 
-:computer: Check out my website to see the latest updates on my work [www.amandabuch.com/](https://www.amandabuch.com/) and follow me on 🐦 Twitter [@amandambuch](https://x.com/amandambuch).
+:computer: Check out my website to see the latest updates on my work ([www.amandabuch.com/](https://www.amandabuch.com/)), and follow me on 🐦 Twitter [@amandambuch](https://x.com/amandambuch).
 $~$
 
 
