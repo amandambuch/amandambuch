@@ -4,7 +4,7 @@
 
 :brain: :gear:	I am an Assistant Professor of Psychiatry & Behavioral Sciences and of Biomedical Engineering at Duke University, where I lead the Buch Lab. I work at the intersection of artificial intelligence, neuroscience, psychiatry, neuroimaging, and genomics to engineer new approaches for precision neuropsychiatry. My broader work spans science diplomacy, communication, and the arts.
 
-:gem: I am honored to be a [Simons Foundation Fellows-to-Faculty Fellow](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/), [Burroughs Wellcome Fund / Charles Revson Scholar](https://www.bwfund.org/news/announcing-the-recipients-of-the-2024-postdoctoral-diversity-enrichment-program/), and [National Academies of Sciences, Engineering, and Medicine (NASEM) / Ford Foundation Early-Career Fellow Emeritus](https://ra.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=AW&CompYr=2023). :trophy:
+:gem: I am honored to be a Simons Foundation Fellows-to-Faculty Fellow, Burroughs Wellcome Fund / Charles Revson Scholar, and National Academies of Sciences, Engineering, and Medicine (NASEM) / Ford Foundation Early-Career Fellow Emeritus. :trophy:
 
 🎓 I received my Ph.D. in Neuroscience from Weill Cornell Graduate School of Medical Sciences at Cornell University and my B.A. in Biophysics from Columbia College at Columbia University.
 $~$
