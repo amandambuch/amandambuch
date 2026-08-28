@@ -2,7 +2,7 @@
 
 ### | &nbsp; About Dr. Amanda Buch &nbsp; |
 
-:brain: :gear:	I am an Assistant Professor of Psychiatry & Behavioral Sciences and of Biomedical Engineering at Duke University, where I lead the Buch Lab. I work at the intersection of artificial intelligence, neuroscience, psychiatry, neuroimaging, and genomics to engineer new approaches for precision neuropsychiatry. My broader work spans science diplomacy, communication, and the arts.
+:brain: :gear:	I am an Assistant Professor of Psychiatry & Behavioral Sciences and of Biomedical Engineering at Duke University, where I lead the [Buch Lab](https://www.buchlab.com). I work at the intersection of artificial intelligence, neuroscience, psychiatry, neuroimaging, and genomics to engineer new approaches for precision neuropsychiatry. My broader work spans science diplomacy, communication, and the arts.
 
 :gem: I am honored to be a Simons Foundation Fellows-to-Faculty Fellow, Burroughs Wellcome Fund / Charles Revson Scholar, and National Academies of Sciences, Engineering, and Medicine (NASEM) / Ford Foundation Early-Career Fellow Emeritus. :trophy:
 
